@@ -5,7 +5,8 @@ description:Llista de God Rolls de Destiny 2
 // Something New - Curated Roll ()
 dimwishlist:item=3240434620&perks=839105230,2420895100,3400784728,124408337,1380061575
 
-// Something New - Curated Roll (pve)
+// Something New - Curated Roll ()
+//notes: PVE
 dimwishlist:item=3240434620&perks=839105230,1885400500,2779035018,124408337,1380061575
 dimwishlist:item=3240434620&perks=839105230,2420895100,2779035018,124408337,1380061575
 dimwishlist:item=3240434620&perks=839105230,1561002382,2779035018,124408337,1380061575
