@@ -2,7 +2,7 @@ title:Arsenal Jordiet
 description:Llista de God Rolls de Destiny 2
 
 // Something New - Curated Roll ()
-dimwishlist:item=1856262127&perks=839105230,2420895100,3400784728,124408337,1380061575
+dimwishlist:item=3240434620&perks=839105230,2420895100,3400784728,124408337,1380061575
 
 
 // Compass Rose ()
