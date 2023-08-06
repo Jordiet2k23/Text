@@ -2,11 +2,12 @@ title:Arsenal Jordiet
 description:Llista de God Rolls de Destiny 2
 
 
-// Something New - Curated Roll ()
+// Something New ()
+//notes:Curated Roll
 dimwishlist:item=3240434620&perks=839105230,2420895100,3400784728,124408337,1380061575
 
-// Something New - Curated Roll ()
-//notes: PVE
+// Something New ()
+//notes:PVE |tags:pve,mkb,controller
 dimwishlist:item=3240434620&perks=839105230,1885400500,2779035018,124408337,1380061575
 dimwishlist:item=3240434620&perks=839105230,2420895100,2779035018,124408337,1380061575
 dimwishlist:item=3240434620&perks=839105230,1561002382,2779035018,124408337,1380061575
