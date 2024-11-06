@@ -171,14 +171,31 @@ dimwishlist:item=266021826&perks=1476923953,3573490506
 //notes: PvP
 dimwishlist:item=266021826&perks=1476923954,3573490500
 
-// Arcane Embrace (PvE)
-//notes: PvE
+// Arcane Embrace - One Esports God Roll (pve)
+//notes: In PvE, Arcane Embrace is excellent for taking down elites and bosses, thanks to a large magazine size and perks like Fourth Time’s The Charm and Precision Instrument. Masterwork: stability, range or reload speed. tags:pve
 dimwishlist:item=3649985571&perks=839105230,106909392,1354429876,555281244
-dimwishlist:item=3649985571&perks=1840239774,3230963543,1631667848,4082225868
-dimwishlist:item=3649985571&perks=1840239774,106909392,1354429876,3708227201
+dimwishlist:item=3649985571&perks=839105230,106909392,1354429876,3708227201
+dimwishlist:item=3649985571&perks=839105230,106909392,1631667848,555281244
+dimwishlist:item=3649985571&perks=839105230,106909392,1631667848,3708227201
 
-// Arcane Embrace (PvP)
-//notes: PvP
-dimwishlist:item=3649985571&perks=1482024992,106909392,3161816588,1194056669
-dimwishlist:item=3649985571&perks=3250034553,3142289711,3161816588,1194056669
+
+// Arcane Embrace - One Esports God Roll (pvp)
+//notes: Slideshot in the third column can easily reload the Magazine and boost Range and Stability. Closing Time provides similar benefits, improving the Range, Accuracy, and Handling of the weapon. Masterwork: Range tags:pvp
+dimwishlist:item=3649985571&perks=1482024992,3142289711,3161816588,1194056669
+dimwishlist:item=3649985571&perks=1482024992,3142289711,3161816588,1890422124
+dimwishlist:item=3649985571&perks=1482024992,3142289711,4071163871,1194056669
+dimwishlist:item=3649985571&perks=1482024992,3142289711,4071163871,1890422124
+
+
+// Arcane Embrace - GameSpot God Roll (pve)
+//notes: Firing two shots for each pull of the trigger, Arcane Embrace can dish out massive damage very quickly--so the struggle becomes keeping it full of ammo to keep that damage flowing for as long as possible. Focus on increasing your reload speed so you can get the gun loaded quickly, with a secondary emphasis on handling so you can quickly swap to it when needed. Fourth Time's the Charm helps with keeping the gun loaded since you get ammo back for landing precision shots and you can land two hits with each blast. Surrounded and Precision Instrument both do well to add additional damage to the gun. Use Precision Instrument if you're doing well in landing lots of headshots, and Surrounded if you can wade into a group of enemies to do your dirty work. Surrounded offers a more significant damage boost but is generally harder to activate. Masterwork: Handling or Reload Speed. tags:pve
+dimwishlist:item=3649985571&perks=1840239774,106909392,1354429876,555281244
+dimwishlist:item=3649985571&perks=1840239774,106909392,1354429876,3708227201
+dimwishlist:item=3649985571&perks=4090651448,106909392,1354429876,555281244
+dimwishlist:item=3649985571&perks=4090651448,106909392,1354429876,3708227201
+
+
+// Arcane Embrace - GameSpot God Roll (pvp)
+//notes: You can do solid work in PvP with Arcane Embrace just with its two shots, but it operates like a slug shotgun, which means precision is important. For that reason, stability is a stat you want to lean into, especially because you can get strong boosts to range through other perks. The benefits of Slideshot--increased range and stability, as well as reloading the magazine--are hard to pass up in the Crucible. Closing Time is also great for boosting stats that will help you win fights, including range, although you need to get the magazine down to at least half to trigger it, so keep that in mind when choosing when to reload. Masterwork: stability or range. tags:pvp
 dimwishlist:item=3649985571&perks=1482024992,3177308360,3161816588,1194056669
+dimwishlist:item=3649985571&perks=1482024992,3142289711,3161816588,1194056669
