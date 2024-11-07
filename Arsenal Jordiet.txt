@@ -304,3 +304,7 @@ dimwishlist:item=3558681245&perks=839105230,1087426260,3418782618,3891536761
 // BrayTech Werewolf - Dot Esports God Roll (pvp)
 //notes: In PvP, you can hit exactly 100 range with the Extended Barrel, Ricochet Rounds, and the new Ballistics weapon mod (which requires an enhanced weapon). While auto rifles aren’t the best in PvP, you can go for Zen Moment and Target Lock for reduced recoil, flinch, and more forgiving damage. You can also go with either Kill Clip or Onslaught in the fourth column. Both perks require a kill to proc, which isn’t the best for three-vs-three playlists like Trials of Osiris and Competitive, but it can be a lot of fun in regular six-vs-six modes. Masterwork: range Weapon Mod: Ballistics tags:pvp
 dimwishlist:item=3558681245&perks=1467527085,1885400500,2387244414,365154968
+
+// BrayTech Werewolf - Maven God Roll (pvp)
+//notes: tags:pvp
+dimwishlist:item=3558681245&perks=1482024992,1561002382,2579169598,1015611457
