@@ -222,3 +222,43 @@ dimwishlist:item=3649985571&perks=3250034553,3230963543,1354429876,3708227201
 // Arcane Embrace - Totalapexgaming god roll (pvp)
 //notes: Masterwork: range tags:pvp
 dimwishlist:item=3649985571&perks=3250034553,3142289711,2579169598,1194056669
+dimwishlist:item=3649985571&perks=1482024992,3142289711,2579169598,1194056669
+
+// Jurassic Green - Blueberries God Roll (pve)
+//notes: Handling and Reload Speed are always excellent to have on weapons in PvE, so Fluted Barrel and Flared Magwell are the best picks for our barrel and magazine. Field Tested also helps with this, as it continuously grants stat bonuses the more you land hits or kills with the weapon. Heal Clip stands out in the first perk column, thanks to its excellent survivability properties; however, Loose Change is a suitable alternative when paired with Incandescent, as Scorch is an elemental debuff. In perk column 2, Incandescent is the perk that jumps out to us, but Frenzy is always safe to use. However, don’t combine Loose Change with Frenzy, as you won’t take advantage of the reload speed bonus that Loose Change provides because Frenzy is already providing it. Masterwork: Reload Speed. tags:pve
+dimwishlist:item=689294985&perks=1840239774,3230963543,3017780555,4293542123,2120661319
+
+// Jurassic Green - Blueberries God Roll (pvp)
+//notes: Jurassic Green has rather low base Handling and Stability, so Fluted Barrel is always a fair choice. However, some might want to boost the Range a tad, so Corkscrew Rifling works too. Accurised Rounds are always a must for the solid bump to Range; however, you can go for Steady Rounds instead and completely lean into Stability. Keep Away is the clear option in perk slot one. However, Closing Time has been found to be quite a strong option too. Keep Away also synergizes nicely with the Search Party Origin Trait, which grants some ADS-related benefits when active. Headseeker is the best option for perk slot two as it helps with the general consistency of the weapon, but Under Pressure can be a good perk, too, especially when you are going from one target to the next. tags:pvp
+dimwishlist:item=689294985&perks=1840239774,3142289711,3619207468,460017080,2250679103
+dimwishlist:item=689294985&perks=1840239774,3142289711,3619207468,1645158859,2250679103
+dimwishlist:item=689294985&perks=1840239774,3142289711,1194056669,460017080,2250679103
+dimwishlist:item=689294985&perks=1840239774,3142289711,1194056669,1645158859,2250679103
+dimwishlist:item=689294985&perks=1840239774,3177308360,3619207468,460017080,2250679103
+dimwishlist:item=689294985&perks=1840239774,3177308360,3619207468,1645158859,2250679103
+dimwishlist:item=689294985&perks=1840239774,3177308360,1194056669,460017080,2250679103
+dimwishlist:item=689294985&perks=1840239774,3177308360,1194056669,1645158859,2250679103
+dimwishlist:item=689294985&perks=4090651448,3142289711,3619207468,460017080,2250679103
+dimwishlist:item=689294985&perks=4090651448,3142289711,3619207468,1645158859,2250679103
+dimwishlist:item=689294985&perks=4090651448,3142289711,1194056669,460017080,2250679103
+dimwishlist:item=689294985&perks=4090651448,3142289711,1194056669,1645158859,2250679103
+dimwishlist:item=689294985&perks=4090651448,3177308360,3619207468,460017080,2250679103
+dimwishlist:item=689294985&perks=4090651448,3177308360,3619207468,1645158859,2250679103
+dimwishlist:item=689294985&perks=4090651448,3177308360,1194056669,460017080,2250679103
+dimwishlist:item=689294985&perks=4090651448,3177308360,1194056669,1645158859,2250679103
+
+// Jurassic Green - Sportskeeda God Roll (pve)
+//notes: These perks are meant for an add-clearing role to the weapon. Players can clear out rooms by spreading Scorch, and cure themselves after each kill. For a more boss-focused approach, Headseeker and Frenzy are great perks. tags:pve
+dimwishlist:item=689294985&perks=839105230,1087426260,3017780555,4293542123
+
+// Jurassic Green - Sportsekeeda God Roll (pvp)
+//notes: Headseeker is a great damage perk for increased precision damage, alongside Rangefinder for increased Range after aiming. Keep Away is another great perk for utilities. tags:pvp
+dimwishlist:item=689294985&perks=4090651448,3142289711,1194056669,1015611457
+
+// Jurassic Green - The Gamer God Roll (pve)
+//notes: PvE doesn't fare much better either. Subsistence and Incandescent can be a solid workhorse in low-end PvE content. Anything tougher, and this Pulse Rifle will start to seriously struggle. Unless you love 540 Pulse Rifles, you can safely skip this weapon. tags:pve
+dimwishlist:item=689294985&perks=1482024992,3142289711,1820235745,4293542123
+
+// Jurassic Green - The Gamer God Roll (pvp)
+//notes: Jurassic Green is a safe pass for virtually everyone. This weapon has a poor stat package, a recoil pattern that must be fixed, and a perk package that doesn't carry enough weight to fix this gun's woes. Heal Clip with Kill Clip is a decent enough roll for 6v6 PvP modes, but it's nowhere near meta status. And if you spec this gun for raw consistency, you might as well use a different archetype. tags:pvp
+dimwishlist:item=689294985&perks=1482024992,3142289711,3017780555,1015611457
