@@ -262,3 +262,45 @@ dimwishlist:item=689294985&perks=1482024992,3142289711,1820235745,4293542123
 // Jurassic Green - The Gamer God Roll (pvp)
 //notes: Jurassic Green is a safe pass for virtually everyone. This weapon has a poor stat package, a recoil pattern that must be fixed, and a perk package that doesn't carry enough weight to fix this gun's woes. Heal Clip with Kill Clip is a decent enough roll for 6v6 PvP modes, but it's nowhere near meta status. And if you spec this gun for raw consistency, you might as well use a different archetype. tags:pvp
 dimwishlist:item=689294985&perks=1482024992,3142289711,3017780555,1015611457
+
+// BrayTech Werewolf - One esports God Roll (pve)
+//notes: The Braytech Werewolf god roll buffs its superb fire rate while ensuring your mag is always filled with Subsistence and Rewind Rounds. Braytech Werewolf’s fire rate makes it perfect for clearing enemy groups. That said, it’s precision isn’t the best, so we’re opting for Chambered Compensator to control its recoil and improve stability in exchange for some directional speed. Rewind Rounds and Kinetic Tremors are our top picks due to the insane damage potential against grouped enemies. But you can also set your sights on Kill Clip + Sustained Rounds, which rewards you with more ammo (and damage) per magazine, making it one of the best guns this season! Masterwork: Stability or Reload Speed. tags:pve
+dimwishlist:item=3558681245&perks=4090651448,1968497646,1820235745,3891536761
+dimwishlist:item=3558681245&perks=4090651448,1968497646,1820235745,1015611457
+dimwishlist:item=3558681245&perks=4090651448,1968497646,3418782618,3891536761
+dimwishlist:item=3558681245&perks=4090651448,1968497646,3418782618,1015611457
+
+// BrayTech Werewolf - One Esports God Roll (pvp)
+//notes: Attachments remain unchanged, but we recommend a different selection for basic traits for the Crucible. Dynamic Sway Reduction and Rewind Rounds share the first slot for added accuracy during long engagements. You’ll rarely need the AOE when everyone’s running around the map.Additionally, Zen Moment gives you the option for less flinch and recoil overtime, letting you land your shots with deadly accuracy when paired with Chambered and Dynamic Sway.  Masterwork: stability or reload speed. tags:pvp
+dimwishlist:item=3558681245&perks=3661387068,1968497646,1359896290,1890422124
+dimwishlist:item=3558681245&perks=3661387068,1968497646,2387244414,1890422124
+
+// BrayTech Werewolf - Blueberries God Roll (pve)
+//notes: Precision Autos carry a lot of weight in their range and firepower, which in turn makes their handling and stability a little low. To mitigate this, we’ve chosen Fluted Barrel and Flared Magwell, as they both increase stability while also providing some much-needed handling and reload speed bumps. For Perk 1, it’s hard to argue anything that isn’t Rewind Rounds. Overflow is good and all, but it’s situational and can sometimes end up getting you killed if the ammo is in a disadvantageous position. If you want something for lower-end content, Subsistence will suit you well. Perk 2 has a lot of good options, but Onslaught or Kinetic Tremors are hard to beat. Onslaught ramps up the fire rate while keeping the damage profile, and Kinetic Tremors is great against larger targets. Masterwork: Reload speed. tags:pve
+dimwishlist:item=3558681245&perks=1840239774,3230963543,3418782618,95528736
+dimwishlist:item=3558681245&perks=1840239774,3230963543,3418782618,1549370717
+dimwishlist:item=3558681245&perks=1840239774,3230963543,1820235745,95528736
+dimwishlist:item=3558681245&perks=1840239774,3230963543,1820235745,1549370717
+
+// BrayTech Werewolf - Blueberries God Roll (pvp)
+//notes: As mentioned earlier, the recoil direction on BW is high enough to throw on Arrowhead Break and hit the perfect 100, so that’s what we’ll do. We’ll also throw on Ricochet Rounds for some much-needed stability while also giving a minor range bump. Perk 1 has two of the best PvP auto rifle perks: Zen Moment and Dynamic Sway Reduction. Both offer extremely powerful buffs while shooting, so the only difference here is preference, though DSR’s stability buff will probably win over more. Perk 2’s going to be Tap the Trigger. Its ease of use and extremely potent, albeit short-lived, buff is perfect for landing those ever-important first shots. Target Lock is a fine alternative, even if it doesn’t sway the TTK. Masterwork: stability. tags:pvp
+dimwishlist:item=3558681245&perks=839105230,1885400500,1359896290,1890422124
+dimwishlist:item=3558681245&perks=839105230,1885400500,1359896290,365154968
+dimwishlist:item=3558681245&perks=839105230,1885400500,2387244414,1890422124
+dimwishlist:item=3558681245&perks=839105230,1885400500,2387244414,365154968
+
+// BrayTech Werewolf - Sportskeeda God Roll (pve)
+//notes: Subsistence is also a great perk for auto-reload, alongside damage perks such as Target Lock, Kill Clip, or Desperate Measures. Since Braytech Werewolf packs a great deal of base damage, players must understand its role in each build. Regardless of the perk, the weapon's stat allows it to deal significant damage to elites and Champions, as well as clear out rooms full of mobs in the endgame. tags:pve
+dimwishlist:item=3558681245&perks=839105230,2420895100,3418782618,3891536761
+
+// BrayTech Werewolf - Sportskeeda God Roll (pvp)
+//notes: Kill Clip is also a great damage perk to have on the weapon, alongside Dyanamic Sway Reduction for more Stability and Lone Wolf for increased Accuracy. tags:pvp
+dimwishlist:item=3558681245&perks=4090651448,1885400500,2387244414,365154968
+
+// BrayTech Werewolf - Dot Esports God Roll (pve)
+//notes: For PvE, BrayTech Werewolf has the perfect combination of Rewind Rounds and Kinetic Tremors. Rewind Rounds refunds around 60 percent of your magazine based on the number of hits, so you can keep firing and triggering Kinetic Tremors with sustained damage for more AoE. Alternatively, you can use Subsistence instead of Rewind Rounds. Although it’s not as effective, you can still maintain a sustained fire in add-dense environments. If you aren’t a fan of Kinetic Tremors, there’s also Onslaught, which is a fun perk, especially with ammo refunding perks in the third column. Masterwork: Reload speed, Weapon Mod: Synergy tags:pve
+dimwishlist:item=3558681245&perks=839105230,1087426260,3418782618,3891536761
+
+// BrayTech Werewolf - Dot Esports God Roll (pvp)
+//notes: In PvP, you can hit exactly 100 range with the Extended Barrel, Ricochet Rounds, and the new Ballistics weapon mod (which requires an enhanced weapon). While auto rifles aren’t the best in PvP, you can go for Zen Moment and Target Lock for reduced recoil, flinch, and more forgiving damage. You can also go with either Kill Clip or Onslaught in the fourth column. Both perks require a kill to proc, which isn’t the best for three-vs-three playlists like Trials of Osiris and Competitive, but it can be a lot of fun in regular six-vs-six modes. Masterwork: range Weapon Mod: Ballistics tags:pvp
+dimwishlist:item=3558681245&perks=1467527085,1885400500,2387244414,365154968
