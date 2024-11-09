@@ -219,11 +219,6 @@ dimwishlist:item=3649985571&perks=1482024992,3177308360,3161816588,1194056669
 dimwishlist:item=3649985571&perks=3250034553,3230963543,1354429876,555281244
 dimwishlist:item=3649985571&perks=3250034553,3230963543,1354429876,3708227201
 
-// Arcane Embrace - Totalapexgaming god roll (pvp)
-//notes: Masterwork: range tags:pvp
-dimwishlist:item=3649985571&perks=3250034553,3142289711,2579169598,1194056669
-dimwishlist:item=3649985571&perks=1482024992,3142289711,2579169598,1194056669
-
 // Arcane Embrace - The Gamer God Roll (pve)
 //notes: Arcane Embrace is the first Heavy Burst Shotgun in Destiny 2, a two-round burst Shotgun that has virtually no recoil. This is fantastic for single-target DPS in close-range scenarios, such as VoG's Templar encounter or Nezarec in RoN. For perks, you can't top Fourth Time's the Charm and Precision Instrument for overall sustained DPS. Masterwork: Range tags:pve
 dimwishlist:item=3649985571&perks=1482024992,3142289711,1354429876,555281244
@@ -231,6 +226,7 @@ dimwishlist:item=3649985571&perks=1482024992,3142289711,1354429876,555281244
 // Arcane Embrace - The gamer god roll (pvp)
 //notes: Crucible players will likely run other Shotgun frames since Arcane Embrace fires two rounds per trigger pull, but it is a great feeling weapon that can be fun in 6v6 modes. Lone Wolf paired with Closing Time makes this weapon a headshot magnet for virtually no effort. Masterwork: range. tags:pvp
 dimwishlist:item=3649985571&perks=1482024992,3142289711,2579169598,1194056669
+dimwishlist:item=3649985571&perks=3250034553,3142289711,2579169598,1194056669
 
 // Jurassic Green - Blueberries God Roll (pve)
 //notes: Handling and Reload Speed are always excellent to have on weapons in PvE, so Fluted Barrel and Flared Magwell are the best picks for our barrel and magazine. Field Tested also helps with this, as it continuously grants stat bonuses the more you land hits or kills with the weapon. Heal Clip stands out in the first perk column, thanks to its excellent survivability properties; however, Loose Change is a suitable alternative when paired with Incandescent, as Scorch is an elemental debuff. In perk column 2, Incandescent is the perk that jumps out to us, but Frenzy is always safe to use. However, don’t combine Loose Change with Frenzy, as you won’t take advantage of the reload speed bonus that Loose Change provides because Frenzy is already providing it. Masterwork: Reload Speed. tags:pve
